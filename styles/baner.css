@@ -1,12 +1,12 @@
 .baner{
 background: var(--azul-degrade)
- color: var(--branco)
+ color fixedvar(--branco)
  text-aling: center;
 }
 
 .baner__titulo{
-    font: size: 18px;
-    font-weight: 700;
+    font: size 18px;
+    font-weight 700;
 }
 .baner__texto{
       font: 500;
