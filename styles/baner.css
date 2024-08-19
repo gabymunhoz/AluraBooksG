@@ -6,7 +6,7 @@ background: var(--azul-degrade)
 
 .baner__titulo{
     font: size: 18px;
-    font-weight :700;
+    font-weight:700;
 }
 .baner__texto{
       font: 500;
