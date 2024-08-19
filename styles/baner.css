@@ -1,11 +1,11 @@
 .baner{
 background: var(--azul-degrade)
- colo: var(--branco);
+ color: var(--branco)
  text-aling: center;
 }
 
 .baner__titulo{
-    font: size: 18;px;
+    font: size: 18px;
     font-weight: 700;
 }
 .baner__texto{
